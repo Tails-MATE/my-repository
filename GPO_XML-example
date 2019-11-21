@@ -1,0 +1,9 @@
+Below is an example of one drive node:
+
+q1:Drive clsid="{935D1B74-9CB8-4e3c-9914-7DD559B7A417}" name="P:" status="P:" image="2" changed="2011-06-21 15:32:03" uid="{3BCD4228-1598-45BE-A994-DF073740B745}" userContext="1" bypassErrors="1">
+<q1:GPOSettingOrder>8</q1:GPOSettingOrder>
+<q1:Properties action="U" thisDrive="NOCHANGE" allDrives="NOCHANGE" userName="" path="\\servername\Public" label="Country PUBLIC" persistent="1" useLetter="1" letter="P" />
+<q1:Filters>
+<q1:FilterGroup bool="AND" not="0" name="Domain\EU_Country_drivemap_GPO" sid="S-1-5-21-1417001333-790525478-839522115-749829" userContext="1" primaryGroup="0" localGroup="0" />
+</q1:Filters>
+</q1:Drive>
